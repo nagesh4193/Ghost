@@ -9,5 +9,4 @@ arch:
   - ppc64le
 
 script:
-  - npm install ghost-cli -g
-  - ghost install
+  - npm install
